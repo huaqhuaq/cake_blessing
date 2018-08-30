@@ -64,12 +64,13 @@ body{
 /*cake*/
 .cake-wrap{
 	width: 100%;
-	height: 860px;
+	height: 688px;
 	position: relative;
+	text-align: center;
 }
 .cake{
-	width: 100%;
-	height: 860px;
+	width: 80%;
+	height: 688px;
 	object-fit: contain;
 }
 /*start*/
@@ -78,7 +79,7 @@ body{
 	position: absolute;
 	left: 0;
 	right: 0;
-	bottom: 150px;
+	bottom: 100px;
 	margin: auto;
 }
 .start-wrap .call{
@@ -136,10 +137,6 @@ body{
 	padding-top: 100px;
 }
 .blessing{
-	position: absolute;
-	left: 0;
-	right: 0;
-	bottom: -30px;
 	margin: auto;
 	width: 80%;
 }
@@ -177,9 +174,6 @@ body{
 	background-size: cover;
 	position: relative;
 }
-.blessing-wrap .blessing{
-	position: static;
-}
 .card-label{
 	font-size: 14px;
 	color: #666;
@@ -210,17 +204,15 @@ body{
 	}
 	/*cake*/
 	.cake-wrap{
-		width: 100%;
-		height: 11.46rem;
+		height: 9.17rem;
 	}
 	.cake{
-		width: 100%;
-		height: 11.46rem;
+		height: 9.17rem;
 	}
 	/*start*/
 	.start-wrap{
 		width: 6.66rem;
-		bottom: 2.4rem;
+		bottom: 1.33rem;
 	}
 	.start-wrap .call{
 		width: 4rem;
