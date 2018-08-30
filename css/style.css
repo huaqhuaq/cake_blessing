@@ -142,12 +142,12 @@ body{
 }
 .blessing li{
 	border-bottom: 2px solid #e5e5e5;
-	height: 80px;
+	height: 72px;
 }
 .blessing li p{
 	font-size: 20px;
 	color: #353535;
-	line-height: 80px;
+	line-height: 72px;
 }
 .blessing li .blessing-tel{
 	float: left;
@@ -238,11 +238,11 @@ body{
 	}
 	/*blessing*/
 	.blessing li{
-		height: 1.06rem;
+		height: 0.96rem;
 	}
 	.blessing li p{
 		font-size: 0.26rem;
-		line-height: 1.06rem;
+		line-height: 0.96rem;
 	}
 	.page.bg .wrap{
 		padding-top: 1.33rem;
